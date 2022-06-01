@@ -19,8 +19,9 @@
   text-align: center;
   height: 52px;
   padding: 0 15px;
-  background-color: cornsilk;
+  background-color: #f1f0eb;
   border-radius: 10px;
+  color: #036fe3;
 }
 
 .layout-footer {
@@ -33,7 +34,7 @@
 .layout-header,
 .layout-footer {
   padding: 0 40px;
-  background-color: rgb(58, 102, 9);
+  background-color:#072b52;
 }
 
 
@@ -64,8 +65,9 @@ div.layuout{
 
 .form-filter{
   margin: 15px;
-    background-color: #e8b170;
+    background-color: #9ac2ed;
     border-radius: 6px;
+    padding: 5px;
 }
 
 .not404{

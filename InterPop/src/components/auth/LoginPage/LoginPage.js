@@ -42,7 +42,7 @@ function LoginPage({ onLogin, history, location }) {
 
   return (
     <div className="loginPage">
-      <h1 className="loginPage-title">Inicio de sesion NodePop</h1>
+      <h1 className="loginPage-title">InterPop</h1>
       <form className="loginForm" onSubmit={handleSubmit}>
         <FormField
           type="text"
