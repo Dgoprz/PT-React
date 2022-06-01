@@ -1,0 +1,40 @@
+.adv{
+  border-bottom-width: 1px;
+  padding: 10px 15px 0 15px;
+  /*transition: background-color 0.2s;*/
+}
+
+.layout-content{
+  text-align: center;
+  background-color: #fff;
+  border-radius: 10px;
+  height: 100vh;
+}
+.advert-header {
+  color: rgb(101, 119, 134);
+  margin-bottom: 2px;
+}
+
+
+
+.adv-name {
+  color: rgb(13, 112, 212);
+  font-weight: bold;
+  font-size: 2rem;;
+}
+
+.adv-price {
+  margin-left: 5px;
+}
+
+img{
+  max-width: 100%;
+  max-height: 350px;
+}
+
+#placeh{
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight:700;
+}
+
