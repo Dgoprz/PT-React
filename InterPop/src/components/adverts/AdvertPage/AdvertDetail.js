@@ -11,6 +11,7 @@ import './AdvertDetail.css';
         <img
           src={path}
           alt="Imagen"
+          className='fotoDetail'
         />
         </div>:<input id="placeh" placeholder="Imagen no disponible" disabled/>
          }   

@@ -25,10 +25,20 @@
 .advert-name {
   color: rgb(20, 23, 26);
   font-weight: bold;
+  font-size: 18px;
 }
 
 .advert-tg {
   margin-left: 5px;
+}
+
+.venta{
+  color: rgb(47, 211, 47);
+  font-weight: 700;  
+}
+.compra{
+  color: rgb(192, 19, 19);
+  font-weight: 700; 
 }
 
 
